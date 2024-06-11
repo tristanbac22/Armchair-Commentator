@@ -1,10 +1,15 @@
 # Armchair Commentator
 
 ## Description
-    My first javascript project is a fun project that prints random text messages from a defined list. The messages are fun little pokes at the comments people make when watching a professional sport or competition. They range from ones I have said to ones I have heard others say.
+    My first javascript project is a fun project that prints 
+    random text messages from a defined list. The messages are fun 
+    little pokes at the comments people make when watching a professional
+    sport or competition. They range from ones I have said 
+    to ones I have heard others say.
 
 ### Purpose
-    Practice what I have learned from javascript tutorials, implementing Git version control and Kanban project management. 
+    Practice what I have learned from javascript tutorials,
+    implementing Git version control and project management. 
 
 ### Tech
     + Javascript
